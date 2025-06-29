@@ -1,5 +1,5 @@
 
-# 🗓️ AgendaPro - Plataforma de Agendamento como Serviço (SaaS)
+# 🗓️ Agendexa - Plataforma de Agendamento como Serviço (SaaS)
 
 API backend desenvolvida com Java + Spring Boot, voltada para sistemas de agendamento em clínicas e consultórios. Projeto robusto, seguro e escalável, com estrutura preparada para múltiplos clientes (multi-tenant).
 
@@ -117,4 +117,4 @@ Authorization: Bearer <seu_token>
 
 ---
 
-Feito com 💙 por [Seu Nome ou GitHub](https://github.com/seu-usuario)
+Feito com 💙 por (https://github.com/DIEGOAPICELLO)
