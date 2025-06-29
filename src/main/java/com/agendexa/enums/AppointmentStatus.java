@@ -3,6 +3,6 @@ package com.agendexa.enums;
 public enum AppointmentStatus {
 
     SCHEDULED,
-    CONCELED,
+    CANCELED,
     COMPLETED;
 }
